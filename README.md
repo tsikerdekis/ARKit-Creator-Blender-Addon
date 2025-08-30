@@ -16,6 +16,18 @@ It guides you step-by-step with preview reference images, so you can pose your r
 
 ---
 
+## 📥 Download & Install
+1. Download the latest release ZIP:  
+   👉 [ARKit Blendshape Baker – Download ZIP](https://github.com/tsikerdekis/ARKit-Creator-Blender-Addon/releases/download/1.4.6/arkit.zip)  
+
+2. Install in Blender:  
+   - Open Blender.  
+   - Go to `Edit → Preferences → Add-ons`.  
+   - Click **Install…** and select the downloaded ZIP file.  
+   - Enable **ARKit Blendshape Baker** from the list.  
+
+---
+
 ## 📖 Requirements
 - Blender **4.4.x** or newer
 - A generated rig (Rigify or AutoRig Pro).
